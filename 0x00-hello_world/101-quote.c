@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
-  *main -Enrty point
+  *main -prints "and that piece of art is useful", followed by a new line.
   *
-  *Return: Always 1 (Success)
+  *Return: Always 1.
   */
 int main(void)
 {
